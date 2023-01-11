@@ -1,0 +1,17 @@
+body {
+    background-color: #414141;
+}
+h1 {
+    color:Lime;
+    background-color:Green;
+}
+h2 {
+    color:Orange;
+    background-color:Yellow;
+    display: inline-block;
+}
+p {
+    color:DarkRed;
+    background-color:Red;
+    display: inline-block;
+}
